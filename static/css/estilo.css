@@ -1,0 +1,44 @@
+H1{
+    color: rgb(233, 233, 241);
+}
+.cabeza{
+    display: grid;
+    align-items: center;
+    grid-template-columns: 800px auto;
+    margin: 50px;
+    margin-top: 40px;
+}
+.menu{
+    display: flex;
+    gap: 100px;
+    color: aliceblue;
+}
+body{
+    background-image: url("imgen/om.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.sesion2{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    margin-top: 100px;
+    justify-items: center;
+    
+}
+h2{
+    color: rgb(233, 233, 241);
+}
+.sesion3{
+    color: aliceblue;
+}
+.sesion4{
+    color: aliceblue;
+}
